@@ -118,7 +118,7 @@ function onStart() {
                     finishText.style.textTransform = "uppercase";
                     TimerDiv.appendChild(finishText);
                 }
-            }, 10)
+            }, 1000)
         }
     }
 }
